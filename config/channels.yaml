@@ -1,0 +1,10 @@
+channels:
+  kids:
+    niche: "animal facts for kids"
+    videos_per_day: 1
+  facts:
+    niche: "mind blowing facts"
+    videos_per_day: 1
+  stories:
+    niche: "short motivational story"
+    videos_per_day: 1
