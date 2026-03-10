@@ -1,0 +1,8 @@
+openai
+moviepy
+gtts
+python-dotenv
+pyyaml
+requests
+Pillow
+google-api-python-client
